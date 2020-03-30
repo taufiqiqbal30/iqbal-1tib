@@ -1,4 +1,5 @@
 rencana iqbal
 - nilai a terus
+ *semua matakuliah
 - cumlaude
 - no kompen
